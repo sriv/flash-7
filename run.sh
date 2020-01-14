@@ -1,0 +1,1 @@
+gauge install && gauge run specs
